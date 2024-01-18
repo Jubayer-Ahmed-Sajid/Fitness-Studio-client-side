@@ -22,7 +22,7 @@ const Register = () => {
     </Helmet>
       <div className="flex flex-col lg:flex-row items-center justify-center gap-10">
         <div>
-          <div className="w-[400px]">
+          <div className="w-full md:w-[700px] lg:w-[400px] mb-10 lg:mb-0 px-5 lg:px-0">
             <div className="w-full">
               <div>
                 <h1 className="text-start text-4xl font-semibold">
